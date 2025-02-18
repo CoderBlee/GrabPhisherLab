@@ -91,7 +91,7 @@ The phishing kit exfiltrated credentials via a **Telegram bot**. This was confir
 
 ![Q](./Images/q8.png)
 
-`5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0Irvxm10`
+`5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0IGontservxm10-Please don't check the Bot as this was just a Lab practice, not intended for any harm`
 
 **Q9. What is the Chat ID for the phisher's channel?**  
 
