@@ -115,7 +115,7 @@ By analyzing the `metamask.php` file and following the Telegram bot’s API URL,
 
 ![Q](./Images/10.png)
 
-`https://api.telegram.org/bot5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0Irvxm10/getChat?chat_id=5442785564`
+`//api.telegram.org/bot5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0Irvxm10/getChat?chat_id=5442785564'
 
 ![Q](./Images/10.0.png)
 
